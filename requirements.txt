@@ -1,0 +1,5 @@
+demucs
+ffmpeg-python
+webrtcvad
+openai-whisper
+praat-parselmouth
