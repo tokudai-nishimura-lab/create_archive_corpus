@@ -23,9 +23,9 @@ python CreateCorpus.py --debug
 
 その他オプション  
 `--pitch_threshold`：設定する閾値以上のピッチの音声を抽出する（デフォルト：350）  
-`source_audio_dir`：配信アーカイブを入れておくディレクトリ（デフォルト："./source"）  
-`result_dir`：出力されるコーパスが入るディレクトリ（デフォルト："./result"）  
-`json_file`：一度コーパス化した配信アーカイブを記録するJSONファイル（デフォルト："./file_mapping.json"）  
+`--source_audio_dir`：配信アーカイブを入れておくディレクトリ（デフォルト："./source"）  
+`--result_dir`：出力されるコーパスが入るディレクトリ（デフォルト："./result"）  
+`--json_file`：一度コーパス化した配信アーカイブを記録するJSONファイル（デフォルト："./file_mapping.json"）  
 
 ## 配信アーカイブの取得
 
